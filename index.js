@@ -2,9 +2,9 @@ const mineflayer = require('mineflayer');
 const readline = require('readline');
 
 // ===== CONFIG JO TU CHANGE KAR SAKTA HAI =====
-const SERVER_HOST     = 'KittenKraft.play.hosting';
-const SERVER_PORT     = 25565;
-const BOT_USERNAME    = 'Mr_Kitten';
+const SERVER_HOST     = 'in4-1.shulker.in';
+const SERVER_PORT     = 3101;
+const BOT_USERNAME    = 'delux_ow';
 const MC_VERSION      = '1.21.11';
 const DEFAULT_COMMAND = '/login ajjubai94';
 
