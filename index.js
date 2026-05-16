@@ -89,7 +89,7 @@ function createBot () {
     // auto random chat (switch se controlled)
     if (ENABLE_RANDOM_CHAT) {
       setInterval(() => {
-        const chats = ['Join Discord By /discord', 'Contact Us On Discord', 'For Media Ask On Discord', 'Feel Free To Ask Your Problems'];
+        const chats = ['Join Discord By /discord', 'Sub To Dodequel', 'Bhaiya Saman Dedo ', 'Bhaiya Saman Dedo Plz',];
         const msg = chats[Math.floor(Math.random() * chats.length)];
         bot.chat(msg);
       }, 5 * 60 * 1000 + Math.random() * 5 * 60 * 1000);
