@@ -6,7 +6,7 @@ const SERVER_HOST     = 'quarz.mcsh.io';
 const SERVER_PORT     = 25565;
 const BOT_USERNAME    = 'delux_ow';
 const MC_VERSION      = '1.21.11';
-const DEFAULT_COMMAND = '/register ajjubai94 ajjubai94';
+const DEFAULT_COMMAND = '/login ajjubai94';
 
 // yahan se random chat ON/OFF karo
 const ENABLE_RANDOM_CHAT = true;    // true = on, false = off
