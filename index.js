@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 const readline = require('readline');
 
 // ===== CONFIG JO TU CHANGE KAR SAKTA HAI =====
-const SERVER_HOST     = 'NetherMC_S3.aternos.me';
-const SERVER_PORT     = 47621;
+const SERVER_HOST     = 'mumbai.firenode.lol';
+const SERVER_PORT     = 19158;
 const BOT_USERNAME    = 'delux_ow';
 const MC_VERSION      = '1.21.11';
 const DEFAULT_COMMAND = '/login ajjubai94';
