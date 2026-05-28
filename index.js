@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 const readline = require('readline');
 
 // ===== CONFIG JO TU CHANGE KAR SAKTA HAI =====
-const SERVER_HOST     = 'mumbai.firenode.lol';
-const SERVER_PORT     = 19158;
+const SERVER_HOST     = 'quarz.mcsh.io';
+const SERVER_PORT     = 25565;
 const BOT_USERNAME    = 'delux_ow';
 const MC_VERSION      = '1.21.11';
 const DEFAULT_COMMAND = '/register ajjubai94 ajjubai94';
