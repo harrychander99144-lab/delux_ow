@@ -6,7 +6,7 @@ const SERVER_HOST     = 'pat.hidencloud.com';
 const SERVER_PORT     = 24674;
 const BOT_USERNAME    = 'Xeraon_Helper';
 const MC_VERSION      = '1.21.11';
-const DEFAULT_COMMAND = '/login ajjubai94';
+const DEFAULT_COMMAND = '/register ajjubai94 ajjubai94';
 
 // yahan se random chat ON/OFF karo
 const ENABLE_RANDOM_CHAT = true;    // true = on, false = off
